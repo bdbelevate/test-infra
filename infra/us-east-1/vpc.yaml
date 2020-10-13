@@ -9,3 +9,6 @@ spec:
     enableDnsSupport: true
     enableDnsHostNames: true
     instanceTenancy: default
+    tags:
+      - key: name
+        value: argo-east-vpc
